@@ -1,0 +1,95 @@
+body{
+ 
+
+
+   
+   
+}
+
+.navbar-container {
+  
+    position: absolute;
+}
+.list{
+
+
+}
+.list-item {
+  position: relative;
+  display: inline;
+  bottom: 2rem;
+  left: 40rem;
+  padding-left: 2rem;
+  font-size: 20px;
+  font-family: 'poppins-bold', sans-serif;
+  color: rgb(212, 212, 212);
+}
+
+.log {
+  position: relative;
+  left: 30rem;
+  top: 2rem;
+}
+
+.banner-container {
+  position: absolute;
+}
+.heading-text {
+  position: relative;
+  left: 30rem;
+  top: 12rem;
+  font-family: 'poppins-bold', sans-serif;
+  font-size: 5rem;
+  width: 40rem;
+}
+.description {
+  position: relative;
+  left: 30rem;
+  top: 10rem;
+  font-size: 20px;
+  text-align: center;
+  width: 26rem;
+  font-family: 'poppins-bold', sans-serif;
+  color: gray;
+  font-style: italic;
+  font-weight: 50;
+}
+.nav-button.btn {
+  position: relative;
+  padding: 1.5rem;
+  width: 250px;
+  left: 31rem;
+  top: 12rem;
+}
+
+.nav-button{
+    position: relative;
+    left: 95rem;
+    bottom: 5rem;
+    padding: 1rem;
+    background-color: #5A20CB;
+    border-radius: 10px;
+    color: white;
+    font-size: larger;
+    border: 5px solid;
+    border: gray;
+
+}
+.illustr{
+
+    position: relative;
+    left: 65rem;
+    bottom: 20rem;
+  
+}
+
+#ad{
+
+    color: #1B98F5;
+}
+
+li:first-child{
+
+    color: black;
+    font-weight: bolder;
+}
